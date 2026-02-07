@@ -32,8 +32,8 @@ This project is a simple HTML and CSS recreation of a landing page layout inspir
 ---
 
 ## Screenshots
-<img width="1422" height="810" alt="Screenshot 2026-02-07 at 1 46 44 PM" src="https://github.com/user-attachments/assets/cb490778-9bf2-4b49-b679-c840f546acba" />
 
+<img width="1422" height="810" alt="Screenshot 2026-02-07 at 1 48 05 PM" src="https://github.com/user-attachments/assets/f36ed644-c576-4064-b5c5-22b617f13c09" />
 
 ---
 
