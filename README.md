@@ -1,5 +1,6 @@
 # cursor-clone
 website:https://cursor-clone-pied.vercel.app
+note : As given in the masterji assignment contraints, the website is **not responsive** , the website is designed for only desktop screen (**13 inch display**) .
 
 # Cursor Landing Page Clone – README
 
